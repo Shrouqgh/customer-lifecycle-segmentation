@@ -1,9 +1,9 @@
 # Customer Lifecycle Segmentation & Leakage Revenue Mapping
 
 ## Summary
-This project analyzes customer churn patterns and promotional dependencies across a high-volume retail customer base of **9 Million user profiles**. By implementing an RFM (Recency, Frequency, Monetary) clustering approach on historical transactional logs, this pipeline successfully isolated a critical margin leakage point where **76% of trial category users churned after a single purchase**. 
+This project analyzes customer churn patterns and promotional dependencies across a high-volume retail customer base of 9 Million user profiles. By implementing an RFM (Recency, Frequency, Monetary) clustering approach on historical transactional logs, this pipeline successfully isolated a critical margin leakage point where 76% of trial category users churned after a single purchase. 
 
-Predictive financial modeling proved that converting just a fraction of these high-value one-time buyers back into the category uncovers a **SAR 20.8 Million revenue opportunity** without adding incremental customer acquisition costs.
+Predictive financial modeling proved that converting just a fraction of these high-value one-time buyers back into the category uncovers a $5.5 Million revenue opportunity without adding incremental customer acquisition costs.
 
 ---
 
